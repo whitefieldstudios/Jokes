@@ -21,7 +21,7 @@
 // SOFTWARE.
 //
 // Jokes Image
-//     by Code Life
+//     by White Field Studios
 //     generates a .jpg image of a joke
 // Description: Outputs a joke as a framed .jpg image file using stb_truetype + stb_image_write.
 //              Requires: stb_truetype.h, stb_image_write.h (drop in project directory)
