@@ -21,7 +21,7 @@
 // SOFTWARE.
 //
 // Jokes
-//     by Code Life
+//     by White Field Studios
 //     command line version using modern C++
 //     version 1.1 - 2/06/2026
 //     version 2.0 - 3/23/2026 - no --color is necessary since color is now on by default; also using jokes_data.h for jokes
