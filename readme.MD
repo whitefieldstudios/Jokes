@@ -72,4 +72,4 @@ This project is licensed under the MIT License - see the file header or LICENSE 
 
 ## Author
 
-Created by Code Life
+Created by White Field Studios
