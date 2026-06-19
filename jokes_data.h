@@ -620,5 +620,8 @@ const vector<Joke> jokes = {
     {"dad", "I was walking in the jungle and saw a lizard on his hind legs telling jokes. I said to the local tribesman, \"That lizards really funny.\"", "The tribesman replied, \"That's not a lizard. He's a stand up chameleon.\""},
     {"work", "I keep swapping the N and M keys on everyon's keyboard at work. Some are calling me a monster.", "I say I'm a nomster."},
     {"dad", "Why did the man decide to buy nine rackets?", "Because tennnis too many!"},
-    {"dad", "They asked me if I wanted my pizza delivered.", "I said absolutely. I hate liver."}
+    {"dad", "They asked me if I wanted my pizza delivered.", "I said absolutely. I hate liver."},
+    {"dad", "I've been trying come up with some jokes about sewing...", "If only I had some material."},
+    {"dad", "I told my psychiatrist that I've been hearing voices.", "He told me that I don't have a psychiatrist."},
+    {"dad", "Scientists have found that cows produce more milk when the farmer talks to them.", "Apparently, it's a case of in one ear and out the udder."}
 };
