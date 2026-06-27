@@ -79,7 +79,7 @@ void displayHelp() {
     cout << "  -nc, --nocolor        Disable colored output (color is on by default)\n";
     cout << "  -sn, --shownumber     Display the number of the joke\n";
     cout << "  -st, --showtype       Display the type of the joke\n";
-    cout << "  -t, --type xxx        Filter by joke type: dad, knock-knock, pun, math, tech, work, aging, all\n";
+    cout << "  -t, --type xxx        Filter by joke type: dad, knock-knock, pun, math, tech, work, aging, Bible, all\n";
     cout << "  -p, --picknumber xxx  Display joke by number, supply number after\n";
     cout << "  -v, --version         Display the version number\n";
     cout << "  -h, --help            Display this help message\n";
