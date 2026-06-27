@@ -21,7 +21,7 @@
 // SOFTWARE.
 //
 // Jokes
-//     by White Field Studios
+//     by Code Life
 //     command line version using modern C++
 //     version 1.1 - 2/06/2026
 //     version 2.0 - 3/23/2026 - no --color is necessary since color is now on by default; also using jokes_data.h for jokes
@@ -36,7 +36,7 @@
 
 using namespace std;
 
-const string VERSION = "2.0";
+const string VERSION = "2.1";
 
 void outputJoke(const Joke& joke, int jokeNumber, bool separateLines = false, bool colored = false, bool showNumber = false, bool showType = false) {
     // ANSI color codes
@@ -123,8 +123,8 @@ int main(int argc, char* argv[]) {
                 if (i + 1 < argc) {
                     filterType = true;
                     type = argv[++i]; // Skip to next arg
-                    if (type != "dad" && type != "knock-knock" && type != "pun" && type != "math" && type != "tech" && type != "work" && type != "aging" && type != "all") {
-                        cerr << "Invalid joke type specified. Valid types are: dad, knock-knock, tech, pun, math, work, aging, all.\n";
+                    if (type != "dad" && type != "knock-knock" && type != "pun" && type != "math" && type != "tech" && type != "work" && type != "aging" && type != "Bible" && type != "all") {
+                        cerr << "Invalid joke type specified. Valid types are: dad, knock-knock, tech, pun, math, work, aging, Bible, all.\n";
                         return 1;
                     }
                 } else {
