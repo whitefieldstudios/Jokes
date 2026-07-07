@@ -724,5 +724,7 @@ const vector<Joke> jokes = {
     {"Bible", "Why was the ark noisy?", "The animals kept roaring with laughter."},
     {"Bible", "Why did the church Wi-Fi slow down?", "Too many people logging into the cloud."},
     {"Bible", "Why did Jesus use sunscreen?", "To avoid burning bushes."},
-    {"Bible", "How do we know Peter was rich?", "By his net income."}
+    {"Bible", "How do we know Peter was rich?", "By his net income."},
+    {"dad", "What do you get when you cross a duck with a rocket?", "A firequacker!"},
+    {"dad", "What do you get when you cross a firecracker and a ghost?", "Bamboo!"}
 };
