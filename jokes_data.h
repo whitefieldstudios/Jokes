@@ -726,5 +726,12 @@ const vector<Joke> jokes = {
     {"Bible", "Why did Jesus use sunscreen?", "To avoid burning bushes."},
     {"Bible", "How do we know Peter was rich?", "By his net income."},
     {"dad", "What do you get when you cross a duck with a rocket?", "A firequacker!"},
-    {"dad", "What do you get when you cross a firecracker and a ghost?", "Bamboo!"}
+    {"dad", "What do you get when you cross a firecracker and a ghost?", "Bamboo!"},
+    {"Bible", "Who was the greatest comedian in the Bible?", "Samson. He brought the house down."},
+    {"Bible", "Who was the smartest man in the Bible?", "Abraham. He knew a Lot."},
+    {"Bible", "Why did the unemployed man get excited while looking through his Bible?", "He thought he saw a job."},
+    {"Bible", "What was the first word out of Adam's mouth when he first saw Eve?", "Whoa man! Thus, the word \"woman\" was created."},
+    {"Bible", "How many people can you fit in one Honda?",  "Well, the Bible said that all 12 disciples were in one Accord."},
+    {"dad", "What’s a pirate’s favorite letter? ", "You’d think it’s R, but their first love is the C."},
+    {"dad", "What’s the ocean’s favorite comedy show? ", "Whale of Fortune"}
 };
