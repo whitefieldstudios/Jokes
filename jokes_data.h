@@ -740,5 +740,7 @@ const vector<Joke> jokes = {
     {"dad", "Why did the deviled egg become a chef?", "It wanted to whip up some egg-citement!"},
     {"dad", "Why did the deviled egg become a comedian?", "It wanted to yolk around!"},
     {"pun", "Someone told me that it's impossible to make a pun about vegetables.", "I said that's not nececelery true."},
-    {"pun", "I want to tell you about a girl who only eats plants.", "You've probably never heard of herbivore."}
+    {"pun", "I want to tell you about a girl who only eats plants.", "You've probably never heard of herbivore."},
+    {"pun", "I was going to tell you a joke about vegetables,", "but it was corny."},
+    {"pun", "I told my cashier one of my puns...", "It didn't register....."}    
 };
