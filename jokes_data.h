@@ -360,7 +360,7 @@ const vector<Joke> jokes = {
     {"dad", "The other day I held the door open for a clown.", "I thought it was a nice jester."},
     {"dad", "Why do cows have hooves instead of feet?", "Because they lactose."},
     {"dad", "One time, I tripped walking through Paris.", "Eiffel over."},
-    {"dad", "I always keep my guitar in my car now...", "It's good for traffice jams."},
+    {"dad", "I always keep my guitar in my car now...", "It's good for traffic jams."},
     {"dad", "I went on a ski trip.", "It started off fine, but went downhill fast."},
     {"dad", "If you think swimming with dolphins is expensive, you should try swimming with sharks.", "Cost me an arm and a leg"},
     {"dad", "A sweater I bought was picking up static electricity.", "They gave me another one free of charge."},
@@ -733,5 +733,12 @@ const vector<Joke> jokes = {
     {"Bible", "What was the first word out of Adam's mouth when he first saw Eve?", "Whoa man! Thus, the word \"woman\" was created."},
     {"Bible", "How many people can you fit in one Honda?",  "Well, the Bible said that all 12 disciples were in one Accord."},
     {"dad", "What’s a pirate’s favorite letter? ", "You’d think it’s R, but their first love is the C."},
-    {"dad", "What’s the ocean’s favorite comedy show? ", "Whale of Fortune"}
+    {"dad", "What’s the ocean’s favorite comedy show? ", "Whale of Fortune"},
+    {"dad", "What did the evil chicken lay?", "Deviled eggs"},
+    {"aging", "I'm officially at the age where \"getting lucky\" means", "finding my reading glasses."},
+    {"dad", "My Visa declined at the sweater store,", "so the cashier had to ask for my cardigan."},
+    {"dad", "Why did the deviled egg become a chef?", "It wanted to whip up some egg-citement!"},
+    {"dad", "Why did the deviled egg become a comedian?", "It wanted to yolk around!"},
+    {"pun", "Someone told me that it's impossible to make a pun about vegetables.", "I said that's not nececelery true."},
+    {"pun", "I want to tell you about a girl who only eats plants.", "You've probably never heard of herbivore."}
 };
