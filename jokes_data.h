@@ -742,5 +742,9 @@ const vector<Joke> jokes = {
     {"pun", "Someone told me that it's impossible to make a pun about vegetables.", "I said that's not nececelery true."},
     {"pun", "I want to tell you about a girl who only eats plants.", "You've probably never heard of herbivore."},
     {"pun", "I was going to tell you a joke about vegetables,", "but it was corny."},
-    {"pun", "I told my cashier one of my puns...", "It didn't register....."}    
+    {"pun", "I told my cashier one of my puns...", "It didn't register....."},
+    {"dad", "Rumor has is it that orthodontists everywhere are planning to go on strike...", "Brace yourselves."},
+    {"Bible", "What did Daniel tell his real estate agent?", "I prefer a place without a den."},
+    {"Bible", "Did you know that Arkansas is the only state mentioned in the Bible?", "Noah looked out the ark and saw..."},
+    {"dad", "There's a trend on social media where you hide a breath mint under your tie clip for quick use.", "It's called the tick tock tie tack tic tac tactic!"}
 };
